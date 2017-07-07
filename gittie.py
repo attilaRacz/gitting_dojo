@@ -9,3 +9,7 @@ def add(a, b):
 def joke():
     print("LOL")
 
+
+def shout():
+    print("KEK")
+
